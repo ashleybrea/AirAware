@@ -1,24 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+//import '../src/app2.css';  // or './App.css'
+//import "./";
 
-function App() {
+import React from 'react';
+// import Header from './components/Header';
+//import Sidebar from './components/Sidebar';
+import MainContent from './components/MainContent';
+import MainPage from './components/MainPage';
+//import './App.css';
+import VerticalNavbar from './components/VerticalNav';
+
+const App: React.FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="flex h-screen">
+      {/* Navbar on the left */}
+      <VerticalNavbar />
+
+      {/* Main content area */}
+      <div className="flex-1 ml-64 p-4 bg-fuchsia-50">
+        <div className="rounded-2xl border-8 border-solid border-stone-300 p-4">
+         {/*<!<MainPage />*/}
+          <MainContent />
+        </div>
+      </div>
     </div>
   );
 }
