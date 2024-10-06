@@ -1,0 +1,3993 @@
+[
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "10.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "10.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "7.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "18.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "11.8"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "144.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "26.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "22.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "18.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "6.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "6.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "11.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "11.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "7.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "13.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "20.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "10.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "28.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "7.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "17.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "21.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "9.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "27.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "15.4"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "34.9"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "19.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "18.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "18.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "23.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "13.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "19.9"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "34.0"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "33.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "12.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "10.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "8.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "7.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "12.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "11.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "20.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "21.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "12.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "14.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "16.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "23.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "25.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "16.7"
+    },
+    {
+        "indicator_id": "640",
+        "name": "Boiler Emissions- Total SO2 Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "0.8"
+    },
+    {
+        "indicator_id": "640",
+        "name": "Boiler Emissions- Total SO2 Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "6.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "38.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "21.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "10.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "7.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "15.8"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "30.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "21.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "13.5"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "47.3"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "74.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "10.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "10.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "6.7"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "23.1"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "14.0"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "2.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "13.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "18.9"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "28.1"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "34.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "28.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "27.7"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "10.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "27.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "20.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "30.9"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "27.3"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "30.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "13.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "12.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "9.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "28.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "22.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "28.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "24.6"
+    },
+    {
+        "indicator_id": "640",
+        "name": "Boiler Emissions- Total SO2 Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "26.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "10.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "10.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "12.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "8.7"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "13.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "9.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "7.7"
+    },
+    {
+        "indicator_id": "643",
+        "name": "Annual vehicle miles traveled",
+        "measure": "Million miles",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "57.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "12.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "20.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "28.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "31.0"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "35.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "33.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "26.0"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "26.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "31.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "19.7"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "93.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "11.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "9.0"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "45.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "12.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "11.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "19.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "8.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "11.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "10.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "8.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "6.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "23.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "13.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "13.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.7"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "59.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "29.3"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "25.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "16.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "16.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "9.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "16.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "13.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "12.9"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "45.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "9.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "6.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "9.7"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "19.0"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "32.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "11.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "8.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "18.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "25.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "20.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "30.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "21.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "23.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "9.4"
+    },
+    {
+        "indicator_id": "643",
+        "name": "Annual vehicle miles traveled",
+        "measure": "Million miles",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "20.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "6.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "6.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "11.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "10.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "9.4"
+    },
+    {
+        "indicator_id": "640",
+        "name": "Boiler Emissions- Total SO2 Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "50.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "7.5"
+    },
+    {
+        "indicator_id": "643",
+        "name": "Annual vehicle miles traveled",
+        "measure": "Million miles",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "129.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "8.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "9.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "11.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "9.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "7.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "12.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "9.0"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "179.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "11.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "9.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "9.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "13.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "10.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "10.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "6.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "9.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "6.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "8.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "7.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "20.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "19.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "19.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "16.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "29.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "20.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "10.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "11.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "8.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "6.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "22.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "24.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "20.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "20.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "15.8"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "30.5"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "31.1"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "29.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "24.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "25.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "16.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "10.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "9.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "25.6"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "62.5"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "183.6"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "146.9"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "93.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "10.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "7.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "8.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "30.2"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "9.6"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "12.6"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "18.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "32.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "19.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "8.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "14.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "21.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "11.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "10.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "29.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "8.2"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "67.0"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "44.2"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "67.0"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "13.4"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "8.0"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "30.4"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "29.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "16.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "23.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "22.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "24.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "25.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "14.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "22.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "16.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "8.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "19.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "18.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "8.2"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "10.0"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "17.5"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "26.2"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "6.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "9.5"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "28.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.4"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "29.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "11.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "10.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "8.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "9.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "6.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "7.5"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "20.4"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "5.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "10.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "10.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "10.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "12.0"
+    },
+    {
+        "indicator_id": "643",
+        "name": "Annual vehicle miles traveled",
+        "measure": "Million miles",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "55.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "6.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "11.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "6.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "7.2"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "40.0"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "80.8"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "53.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "15.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "17.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "20.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "6.9"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "11.4"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "5.0"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.7"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "15.7"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "20.6"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "4.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "25.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "13.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "24.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.6"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "4.3"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "35.3"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "2.0"
+    },
+    {
+        "indicator_id": "641",
+        "name": "Boiler Emissions- Total PM2.5 Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "3.7"
+    },
+    {
+        "indicator_id": "640",
+        "name": "Boiler Emissions- Total SO2 Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "0.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "14.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "12.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "8.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "10.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "8.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "7.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "7.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "9.7"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "99.3"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "212.5"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "81.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "9.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "6.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "6.5"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "15.0"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "27.0"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "29.2"
+    },
+    {
+        "indicator_id": "647",
+        "name": "Outdoor Air Toxics - Formaldehyde",
+        "measure": "Annual average concentration",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "2.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "19.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "29.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "16.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "23.6"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "16.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "29.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "24.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "18.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "15.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "17.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "16.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "11.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "9.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "8.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "9.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "7.9"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "9.6"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "116.7"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "27.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "28.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "13.4"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "20.6"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "13.3"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "30.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "23.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "12.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "26.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "27.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "10.8"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "55.5"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "7.6"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "13.7"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "23.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "9.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "10.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "8.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "9.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "21.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "7.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "8.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "7.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "19.8"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "33.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "17.9"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "20.8"
+    },
+    {
+        "indicator_id": "642",
+        "name": "Boiler Emissions- Total NOx Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "2.7"
+    },
+    {
+        "indicator_id": "641",
+        "name": "Boiler Emissions- Total PM2.5 Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "0.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "5.8"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "26.3"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "25.3"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "34.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "7.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "6.3"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "6.9"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "9.1"
+    },
+    {
+        "indicator_id": "661",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "13.4"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "34.6"
+    },
+    {
+        "indicator_id": "647",
+        "name": "Outdoor Air Toxics - Formaldehyde",
+        "measure": "Annual average concentration",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "1.4"
+    },
+    {
+        "indicator_id": "647",
+        "name": "Outdoor Air Toxics - Formaldehyde",
+        "measure": "Annual average concentration",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "2.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "18.9"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "28.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "10.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "6.8"
+    },
+    {
+        "indicator_id": "642",
+        "name": "Boiler Emissions- Total NOx Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "39.5"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "32.2"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "18.0"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "18.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "13.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "12.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "13.7"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "31.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "10.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "7.9"
+    },
+    {
+        "indicator_id": "659",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "46.5"
+    },
+    {
+        "indicator_id": "659",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "45.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "17.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "23.9"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "15.5"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "67.3"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "74.0"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "11.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "22.2"
+    },
+    {
+        "indicator_id": "659",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "27.2"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "31.3"
+    },
+    {
+        "indicator_id": "647",
+        "name": "Outdoor Air Toxics - Formaldehyde",
+        "measure": "Annual average concentration",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "2.0"
+    },
+    {
+        "indicator_id": "647",
+        "name": "Outdoor Air Toxics - Formaldehyde",
+        "measure": "Annual average concentration",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "3.3"
+    },
+    {
+        "indicator_id": "647",
+        "name": "Outdoor Air Toxics - Formaldehyde",
+        "measure": "Annual average concentration",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "3.0"
+    },
+    {
+        "indicator_id": "647",
+        "name": "Outdoor Air Toxics - Formaldehyde",
+        "measure": "Annual average concentration",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "2.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "14.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "10.9"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "28.9"
+    },
+    {
+        "indicator_id": "641",
+        "name": "Boiler Emissions- Total PM2.5 Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "0.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "8.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "7.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "9.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "7.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "15.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "17.9"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "6.0"
+    },
+    {
+        "indicator_id": "651",
+        "name": "Cardiovascular hospitalizations due to PM2.5 (age 40+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "12.3"
+    },
+    {
+        "indicator_id": "386",
+        "name": "Ozone (O3)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "28.0"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "26.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "12.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.9"
+    },
+    {
+        "indicator_id": "640",
+        "name": "Boiler Emissions- Total SO2 Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "10.3"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "14.2"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "71.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "7.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "22.9"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "15.5"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "data_value": "43.0"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "data_value": "92.0"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "data_value": "74.0"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "data_value": "60.0"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "data_value": "145.0"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "data_value": "15.0"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "data_value": "27.0"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "data_value": "10.0"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "data_value": "14.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "9.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "11.0"
+    },
+    {
+        "indicator_id": "652",
+        "name": "Cardiac and respiratory deaths due to Ozone",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "7.8"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "11.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "6.6"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "65.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "24.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "22.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "15.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "17.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "22.3"
+    },
+    {
+        "indicator_id": "643",
+        "name": "Annual vehicle miles traveled",
+        "measure": "Million miles",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "59.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "35.4"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "128.2"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "16.5"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "177.5"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "34.3"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "87.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "9.1"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "8.4"
+    },
+    {
+        "indicator_id": "651",
+        "name": "Cardiovascular hospitalizations due to PM2.5 (age 40+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "17.0"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "26.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "16.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "10.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "19.3"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "23.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "6.7"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "55.3"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "30.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "12.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "8.7"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "5.5"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "49.9"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "48.5"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "52.0"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "15.0"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "92.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "9.3"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "7.2"
+    },
+    {
+        "indicator_id": "642",
+        "name": "Boiler Emissions- Total NOx Emissions",
+        "measure": "Number per km2",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "142.8"
+    },
+    {
+        "indicator_id": "651",
+        "name": "Cardiovascular hospitalizations due to PM2.5 (age 40+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "15.5"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "9.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "9.2"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "7.6"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "8.4"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "4",
+        "data_value": "6.1"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "12.8"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "18.4"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "17.7"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "21.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "7.8"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "6.9"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "9.1"
+    },
+    {
+        "indicator_id": "655",
+        "name": "Asthma hospitalizations due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "20.6"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "113.3"
+    },
+    {
+        "indicator_id": "653",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "62.5"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "22.2"
+    },
+    {
+        "indicator_id": "375",
+        "name": "Nitrogen dioxide (NO2)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "13.4"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "1",
+        "data_value": "12.0"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "19.6"
+    },
+    {
+        "indicator_id": "657",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "40.8"
+    },
+    {
+        "indicator_id": "652",
+        "name": "Cardiac and respiratory deaths due to Ozone",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "4.2"
+    },
+    {
+        "indicator_id": "651",
+        "name": "Cardiovascular hospitalizations due to PM2.5 (age 40+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "3",
+        "data_value": "14.6"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "11.5"
+    },
+    {
+        "indicator_id": "650",
+        "name": "Respiratory hospitalizations due to PM2.5 (age 20+)",
+        "measure": "Estimated annual rate",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "10.5"
+    },
+    {
+        "indicator_id": "648",
+        "name": "Asthma emergency department visits due to PM2.5",
+        "measure": "Estimated annual rate (under age 18)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "2",
+        "data_value": "54.0"
+    },
+    {
+        "indicator_id": "365",
+        "name": "Fine particles (PM 2.5)",
+        "measure": "Mean",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "8.8"
+    },
+    {
+        "indicator_id": "659",
+        "name": "Asthma emergency departments visits due to Ozone",
+        "measure": "Estimated annual rate (age 18+)",
+        "geo_type_name": "Borough",
+        "geo_join_id": "5",
+        "data_value": "37.9"
+    }
+]
