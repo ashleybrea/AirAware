@@ -1,11 +1,29 @@
 
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import MainContent from '../components/MainContent';
 import MainPage from '../components/MainPage';
 import VerticalNavbar from '../components/VerticalNav';
 
 
+
 const Home: React.FC = () => {
+
+  useEffect(() => {
+    // Fetch data from Flask backend
+    fetch('/')  // The URL matches the Flask route
+        .then(response => response.json())
+        .then(data => {
+            setData(data);
+            setLoading(false);
+        })
+        .catch(error => {
+            console.error('Error fetching data:', error);
+            setLoading(false);
+        });
+  }, []);
+
+
+
   return (
     <div className="flex h-screen">
       {/* Navbar on the left */}
