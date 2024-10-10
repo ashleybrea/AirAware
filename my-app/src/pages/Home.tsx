@@ -8,6 +8,9 @@ import VerticalNavbar from '../components/VerticalNav';
 
 const Home: React.FC = () => {
 
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(true);
+
   useEffect(() => {
     // Fetch data from Flask backend
     fetch('/')  // The URL matches the Flask route
